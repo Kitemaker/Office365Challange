@@ -1,0 +1,4 @@
+C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\obj\Debug\ExcelWebAddInSample.csproj.CoreCompileInputs.cache
+C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\obj\Debug\ExcelWebAddInSample.csproj.CopyComplete
