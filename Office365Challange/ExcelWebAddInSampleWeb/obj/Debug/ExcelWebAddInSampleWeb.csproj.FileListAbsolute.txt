@@ -105,7 +105,6 @@ C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\Exc
 C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSampleWeb\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSampleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSampleWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSampleWeb\obj\Debug\ExcelWebAddInSampleWeb.csprojAssemblyReference.cache
 C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSampleWeb\obj\Debug\ExcelWebAddInSampleWeb.csproj.CoreCompileInputs.cache
 C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSampleWeb\obj\Debug\ExcelWebAddInSampleWeb.csproj.CopyComplete
 C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSampleWeb\obj\Debug\ExcelWebAddInSampleWeb.dll
