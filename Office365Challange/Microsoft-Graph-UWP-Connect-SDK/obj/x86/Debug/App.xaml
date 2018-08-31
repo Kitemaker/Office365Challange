@@ -1,0 +1,19 @@
+﻿<!-- Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license.
+See LICENSE in the project root for license information. -->
+    
+    <Application
+    x:Class="Microsoft_Graph_UWP_Connect_SDK.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Microsoft_Graph_UWP_Connect_SDK"
+    RequestedTheme="Light">
+
+    <Application.Resources>
+        <!-- Add your client id here. -->
+        <x:String x:Key="ida:ClientID">16b15e8b-608a-4e7a-811f-e9a984a544e7</x:String>
+        <x:String x:Key="ida:ReturnUrl">urn:ietf:wg:oauth:2.0:oobb</x:String>
+    </Application.Resources>
+
+    
+</Application>
+

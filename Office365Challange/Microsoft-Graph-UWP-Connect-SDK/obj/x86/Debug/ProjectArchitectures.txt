@@ -1,0 +1,1 @@
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\Microsoft-Graph-UWP-Connect-SDK\Microsoft-Graph-UWP-Connect-SDK.csproj;x86

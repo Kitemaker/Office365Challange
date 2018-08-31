@@ -16,3 +16,20 @@ C:\Users\sajaved\source\repos\Office365Challange\WpfAppForMicrosoftGraph\obj\Deb
 C:\Users\sajaved\source\repos\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.csproj.CopyComplete
 C:\Users\sajaved\source\repos\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.exe
 C:\Users\sajaved\source\repos\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.pdb
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\bin\Debug\WpfAppForMicrosoftGraph.exe.config
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\bin\Debug\WpfAppForMicrosoftGraph.exe
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\bin\Debug\WpfAppForMicrosoftGraph.pdb
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\MainWindow.g.cs
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\App.g.cs
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph_MarkupCompile.cache
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph_MarkupCompile.lref
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\MainWindow.baml
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.g.resources
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.Properties.Resources.resources
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.csproj.GenerateResource.cache
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.csproj.CoreCompileInputs.cache
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.csproj.CopyComplete
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.exe
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\WpfAppForMicrosoftGraph\obj\Debug\WpfAppForMicrosoftGraph.pdb

@@ -2,3 +2,8 @@ C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\obj\Debug\E
 C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\bin\Debug\Microsoft.Identity.Client.dll
 C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\bin\Debug\Microsoft.Identity.Client.xml
 C:\Users\sajaved\source\repos\Office365Challange\ExcelWebAddInSample\obj\Debug\ExcelWebAddInSample.csproj.CopyComplete
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSample\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSample\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSample\obj\Debug\ExcelWebAddInSample.csprojAssemblyReference.cache
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSample\obj\Debug\ExcelWebAddInSample.csproj.CoreCompileInputs.cache
+C:\Users\Saleem Javed\Documents\GitHub\Office365Challange\Office365Challange\ExcelWebAddInSample\obj\Debug\ExcelWebAddInSample.csproj.CopyComplete
